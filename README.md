@@ -1,4 +1,4 @@
-# ToDay-Weather-App
+# ToDay Weather App
 ### An application to determine the weather through an API according to your geographical location.
 ![photo_2022-03-11_00-33-08](https://user-images.githubusercontent.com/58918060/157766139-70811afc-9970-49cb-8364-45e4da155030.jpg)
 ![photo_2022-03-11_00-33-16](https://user-images.githubusercontent.com/58918060/157766142-777e4fa8-c326-463d-88b7-968ca7e7dfcb.jpg)
